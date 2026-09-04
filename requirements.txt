@@ -1,0 +1,7 @@
+streamlit
+yfinance
+transformers
+torch
+pandas
+openpyxl
+streamlit-authenticator
